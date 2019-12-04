@@ -18,3 +18,15 @@ print('d的值为：%d , e的值为%f , f的值为%s'%(d,e,f))
 print('d的值为{},e的值为{},f的值为{}'.format(d,e,f))
 print(f'd的值为: {d},e的值为:{e},f的值为:{f}')
 print('d的值为%f , e的值为%03f , f的值为%s'%(d,e,f))
+
+
+s=[]
+for a in range(2,11):
+    isPrime=True
+    for b in range(2,a):
+        if a%b==0:
+            isPrime=False
+            break
+    if isPrime:
+        s.append(a)
+print(s)
