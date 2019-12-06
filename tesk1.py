@@ -45,13 +45,21 @@ print(m)
 2+3=5
 3+5=8
 5+8=13
-
+求200以内的斐波那契数列
+定义两个变量a,b
+数列 a ,b,a+b
+a+b<=200
+追加元素到列表中
 '''
-# num=[1,2]
-# for i in range(2,6):
-#     #循环体
-#     num.insert(i,int(num[i-1])+int(num[i-2]))
-#   print(num)
+a,b=0,1
+r=[]
+while b<=200 :
+    if a+b>=200:
+        break
+    a,b=b,a+b
+    r.append(b)
+print(r)
+
 
 '''
 作业7：求10000以内的质数
