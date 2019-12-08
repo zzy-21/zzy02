@@ -76,3 +76,4 @@ for i in range(2,10001):
         s.append(i)
     i=i+1
 print(s)
+
