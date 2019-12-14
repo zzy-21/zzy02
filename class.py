@@ -39,10 +39,10 @@
 # a1.fun1()
 
 # 定义一个学生类：Student，内部含有一个方法：study，实现打印XX学习XX课程
-# class Student():
-#     def study(self,name,kc):
-#         # self.name=name
-#         # self.kc=kc
-#         print(name+'学习'+kc+'课程')
-# a1=Student()
-# a1.study('小明','数学')
+class Student():
+    def study(self,name,kc):
+        # self.name=name
+        # self.kc=kc
+        print(name+'学习'+kc+'课程')
+a1=Student()
+a1.study('小明','数学')

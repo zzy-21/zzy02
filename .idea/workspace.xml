@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="">
+    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zzy02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zzy02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1UkGOB8bzzwMP3lu2wealFerNj8" />
   <component name="ProjectViewState">
@@ -39,6 +36,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/package" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -186,6 +184,8 @@
       <workItem from="1576304022898" duration="1423000" />
       <workItem from="1576305556770" duration="1156000" />
       <workItem from="1576307058285" duration="451000" />
+      <workItem from="1576331896111" duration="35000" />
+      <workItem from="1576331933844" duration="638000" />
     </task>
     <servers />
   </component>
@@ -205,6 +205,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="429" y="43" key="#test3/0.23.1440.797@0.23.1440.797" timestamp="1575893803816" />
+    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1576332792728">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576332792728" />
     <state x="717" y="212" key="FileChooserDialogImpl" timestamp="1576307147319">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -246,15 +250,31 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1358" height="220" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1575992056585" />
-    <state x="226" y="75" key="SettingsEditor" timestamp="1576307640087">
+    <state x="135" y="92" key="MergeDialog" timestamp="1576332821278">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="226" y="75" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576307640087" />
+    <state x="135" y="92" key="MergeDialog/0.23.1440.797@0.23.1440.797" timestamp="1576332821278" />
+    <state x="424" y="144" key="MultipleFileMergeDialog" timestamp="1576332821306">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="424" y="144" key="MultipleFileMergeDialog/0.23.1440.797@0.23.1440.797" timestamp="1576332821306" />
+    <state x="226" y="75" key="SettingsEditor" timestamp="1576331953066">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="226" y="75" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576331953066" />
     <state x="294" y="65" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1576159117259" />
+    <state x="111" y="124" width="1200" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576332292500">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="111" y="124" width="1200" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1576332292500" />
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1575893351527">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1575893351527" />
+    <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576332798692">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1576332798692" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1575900390182">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
