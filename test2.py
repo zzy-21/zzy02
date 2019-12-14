@@ -1,10 +1,10 @@
-# #
-# # list1=[1,2,3,4,3,4,2,5,5,8,9,7]
-# # for num in list1:
-# #     # flg=tr
-# #     if list1.count(num)>1:
-# #         list1.remove(num)
-# # print(list1)
+#coding:utf-8
+# list1=[1,2,3,4,3,4,2,5,5,8,9,7]
+# for a in list1:
+#         flg=tr
+#         if list1.count(num)>1:
+#             list1.remove(a)
+# print(list1)
 # # a=2
 # # a*=3+3
 # # print(a)
@@ -128,15 +128,15 @@
 # a=open('D:\zzy\zzy02\data2.txt','w')
 # a.write(m)
 
-# # 导入目标模块
-# import mymonlde
-# mymonlde.fun1()
-# # 使用from..import导入
-# from mymonlde import *
-# fun1()
-# from mymonlde import fun1
-# fun1()
-# # 包的导入
+# 导入目标模块
+import mymonlde
+mymonlde.fun1()
+# 使用from..import导入
+from mymonlde import *
+fun1()
+from mymonlde import fun1
+fun1()
+# 包的导入
 # from mymondle import
 
 
