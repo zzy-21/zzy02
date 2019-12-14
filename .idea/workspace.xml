@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="第二节课作业">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zzy02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zzy02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,34 +197,50 @@
       <workItem from="1575784271541" duration="583000" />
       <workItem from="1576308348717" duration="9000" />
       <workItem from="1576308383367" duration="299000" />
-      <workItem from="1576308801579" duration="5458000" />
+      <workItem from="1576308801579" duration="10899000" />
     </task>
+    <task id="LOCAL-00001" summary="第二节课作业">
+      <created>1576321639792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576321639792</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二节课作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二节课作业" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="114" key="GridCell.Tab.0.bottom" timestamp="1576313943092">
+    <state x="298" y="23" key="CommitChangelistDialog2" timestamp="1576321908877">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1358" height="114" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576313943092" />
-    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1576309345262" />
-    <state width="1358" height="114" key="GridCell.Tab.0.center" timestamp="1576313943091">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="298" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576321908877" />
+    <state width="1358" height="163" key="GridCell.Tab.0.bottom" timestamp="1576331639110">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1358" height="114" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576313943091" />
-    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1576309345261" />
-    <state width="1358" height="114" key="GridCell.Tab.0.left" timestamp="1576313943091">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1358" height="180" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576329743166" />
+    <state width="1358" height="163" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1576331639110" />
+    <state width="1358" height="163" key="GridCell.Tab.0.center" timestamp="1576331639109">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1358" height="114" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576313943091" />
-    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1576309345261" />
-    <state width="1358" height="114" key="GridCell.Tab.0.right" timestamp="1576313943092">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1358" height="180" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576329743165" />
+    <state width="1358" height="163" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1576331639109" />
+    <state width="1358" height="163" key="GridCell.Tab.0.left" timestamp="1576331639109">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1358" height="114" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576313943092" />
-    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1576309345262" />
+    <state width="1358" height="180" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576329743164" />
+    <state width="1358" height="163" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1576331639109" />
+    <state width="1358" height="163" key="GridCell.Tab.0.right" timestamp="1576331639109">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1358" height="180" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576329743165" />
+    <state width="1358" height="163" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1576331639109" />
     <state x="216" y="60" key="SettingsEditor" timestamp="1576308410661">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -239,6 +253,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zzy02$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1576309339576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$class.coverage" NAME="class Coverage Results" MODIFIED="1576309328752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/zzy02$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1576313943084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1576331639103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

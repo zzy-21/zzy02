@@ -101,48 +101,35 @@ b.eat()
 # 4）小美的体重是45.0公斤
 # 定义一个People类，有属性name和weight，方法每次跑步，每次吃东西
 class People():
-    def __init__(self,peoploName):
-        self.peoploName=peoploName
-        self.peopleWeight=peopleWeight
-    def weigth(self):
-        print('%s体重45公斤'%(self.peopleName))
+    def __init__(self,pname,pweight):
+        self.pname=pname
+        self.pweight=pweight
     def everytime(self):
         print('每次跑步会减肥0.5公斤')
         print('每次吃东西体重会增加1公斤')
+    def weigth(self):
+        print('%s体重%d公斤'%(self.pname,self.pweight))
 
-# class Ming(People):
-#     def __init__(self,name,weight):
-#         self.name='小明'
-#         self.weight=75
-#         super(Ming, self).__init__(self.name
-#      def run(self,name):
-#         print('%s爱跑步，爱吃东西'%self.name)
+class Ming(People):
+    def __init__(self):
+        self.name='小明'
+        self.weight=75
+        super(Ming, self).__init__(self.name,self.weight)
+    def run(self):
+        print('%s爱跑步，爱吃东西'%self.name)
 
 class Mei(People):
-    def __init__(self,name,weight):
+    def __init__(self):
         self.name='小美'
-        self.weight=45
-        super(Mei, self).__init__(self.name)
+        self.weight = 45
+        super(Mei, self).__init__(self.name,self.weight)
 
-# xiaoming=People()
-# xiaoming.weigth()
-# xiaoming.run()
-xiaomei=People()
-xiaomei.weight()
-xiaomei.everytime()
-
-
-
-
-
-
-
-#爱跑步，爱吃东西是方法
-# 体重属性
-# 每次跑步会减0.5公斤，每次吃东西体重会增减1公斤，方法
-# 小美的体重是45.0公斤，对象
-
-
+xiaoming=Ming()
+xiaoming.weigth()
+xiaoming.run()
+xiaoming.everytime()
+xiaomei=Mei()
+xiaomei.weigth()
 
 # 3、摆放家具
 # 需求：
@@ -154,6 +141,8 @@ xiaomei.everytime()
 #    餐桌：占1.5平米
 # 3）.将以上三件家具添加到房子中
 # 4）.打印房子时，要求输出:户型，总面积，剩余面积，家具名称列表
+
+
 
 # class House():
 #     # def __init__(self):
