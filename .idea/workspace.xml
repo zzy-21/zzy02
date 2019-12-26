@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/get的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post的方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read&amp;writeExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/摆放家具.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件IO练习.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +55,8 @@
       <recent name="D:\zzy\zzy02\mymondle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test3">
-    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.文件IO练习">
+    <configuration name="摆放家具" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/摆放家具.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tesk1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="文件IO练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tesk1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件IO练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="字符串练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="字符串练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +135,117 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice/home.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read&amp;writeExcel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,10 +256,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test3" />
-        <item itemvalue="Python.class" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.tesk1" />
+        <item itemvalue="Python.文件IO练习" />
+        <item itemvalue="Python.摆放家具" />
+        <item itemvalue="Python.readExcel" />
+        <item itemvalue="Python.home" />
       </list>
     </recent_temporary>
   </component>
@@ -185,71 +300,125 @@
       <workItem from="1576305556770" duration="1156000" />
       <workItem from="1576307058285" duration="451000" />
       <workItem from="1576331896111" duration="35000" />
-      <workItem from="1576331933844" duration="638000" />
+      <workItem from="1576331933844" duration="1159000" />
+      <workItem from="1576374841361" duration="196000" />
+      <workItem from="1576375101843" duration="10541000" />
+      <workItem from="1576501987360" duration="5806000" />
+      <workItem from="1576550763698" duration="4172000" />
+      <workItem from="1576583884919" duration="10068000" />
+      <workItem from="1576673059042" duration="186000" />
+      <workItem from="1576758614289" duration="11268000" />
+      <workItem from="1576828764621" duration="2034000" />
+      <workItem from="1576993907183" duration="751000" />
+      <workItem from="1576994902544" duration="17408000" />
+      <workItem from="1577105257353" duration="4460000" />
+      <workItem from="1577278242886" duration="8252000" />
+      <workItem from="1577362291904" duration="10994000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
+      <created>1576332842915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576332842915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="87" key="#Inspections" timestamp="1576306520731">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="307" y="87" key="#Inspections" timestamp="1577105569249">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
+    <state x="307" y="87" key="#Inspections/0.23.1440.794@0.23.1440.794" timestamp="1577105569249" />
     <state x="307" y="87" key="#Inspections/0.23.1440.797@0.23.1440.797" timestamp="1576306520731" />
     <state x="429" y="43" key="#class" timestamp="1575893748735">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="429" y="43" key="#class/0.23.1440.797@0.23.1440.797" timestamp="1575893748735" />
+    <state x="429" y="53" key="#read&amp;writeExcel" timestamp="1577112756742">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="429" y="53" key="#read&amp;writeExcel/0.23.1440.795@0.23.1440.795" timestamp="1577112756742" />
+    <state x="429" y="53" key="#readExcel" timestamp="1577112709755">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="429" y="53" key="#readExcel/0.23.1440.795@0.23.1440.795" timestamp="1577112709755" />
     <state x="429" y="43" key="#test3" timestamp="1575893803816">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="429" y="43" key="#test3/0.23.1440.797@0.23.1440.797" timestamp="1575893803816" />
-    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1576332792728">
+    <state x="510" y="78" width="813" height="700" key="#xdebugger.evaluate" timestamp="1576596793793">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="510" y="78" width="813" height="700" key="#xdebugger.evaluate/0.23.1440.794@0.23.1440.794" timestamp="1576596793793" />
+    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1576332842825">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576332792728" />
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576332842825" />
     <state x="717" y="212" key="FileChooserDialogImpl" timestamp="1576307147319">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="717" y="212" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1576307147319" />
     <state x="720" y="187" key="FileChooserDialogImpl/0.23.1440.798@0.23.1440.798" timestamp="1576158883914" />
-    <state width="1358" height="172" key="GridCell.Tab.0.bottom" timestamp="1576305501039">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1577373987890">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="172" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576305501039" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1577373987890" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1577372802609" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576591049622" />
     <state width="1358" height="172" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1576160173500" />
-    <state width="1358" height="172" key="GridCell.Tab.0.center" timestamp="1576305501038">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1577373987889">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="172" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576305501038" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1577372802608" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576591049621" />
     <state width="1358" height="172" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1576160173499" />
-    <state width="1358" height="172" key="GridCell.Tab.0.left" timestamp="1576305501037">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1577373987889">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="172" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576305501037" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1577372802607" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576591049620" />
     <state width="1358" height="172" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1576160173499" />
-    <state width="1358" height="172" key="GridCell.Tab.0.right" timestamp="1576305501039">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1577373987889">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="172" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576305501039" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1577372802608" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576591049622" />
     <state width="1358" height="172" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1576160173500" />
-    <state width="1358" height="220" key="GridCell.Tab.1.bottom" timestamp="1575992056585">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1577370729010">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="220" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1575992056585" />
-    <state width="1358" height="220" key="GridCell.Tab.1.center" timestamp="1575992056585">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1577370729010" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
+    <state width="1398" height="234" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576591050451" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1577370729009">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="220" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1575992056585" />
-    <state width="1358" height="220" key="GridCell.Tab.1.left" timestamp="1575992056584">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
+    <state width="1398" height="234" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1576591050450" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1577370729009">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="220" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1575992056584" />
-    <state width="1358" height="220" key="GridCell.Tab.1.right" timestamp="1575992056585">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.23.1440.795@0.23.1440.795" timestamp="1577113142066" />
+    <state width="1398" height="234" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1576591050449" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1577370729009">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1358" height="220" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1575992056585" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
+    <state width="1398" height="234" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1576591050450" />
     <state x="135" y="92" key="MergeDialog" timestamp="1576332821278">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -258,10 +427,12 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="424" y="144" key="MultipleFileMergeDialog/0.23.1440.797@0.23.1440.797" timestamp="1576332821306" />
-    <state x="226" y="75" key="SettingsEditor" timestamp="1576331953066">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="226" y="75" key="SettingsEditor" timestamp="1577113298023">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="226" y="75" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576331953066" />
+    <state x="226" y="59" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576388863583" />
+    <state x="226" y="75" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1577113298023" />
+    <state x="226" y="75" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576551093003" />
     <state x="294" y="65" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1576159117259" />
     <state x="111" y="124" width="1200" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576332292500">
       <screen x="0" y="23" width="1440" height="797" />
@@ -271,16 +442,49 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1575893351527" />
-    <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576332798692">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="656" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577013928832">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1576332798692" />
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1575900390182">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="656" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.794@0.23.1440.794" timestamp="1577013928832" />
+    <state x="825" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1576512146193" />
+    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577374102722">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
+    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.794@0.23.1440.794" timestamp="1577374102722" />
+    <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1576584854947" />
+    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup" timestamp="1577364194548">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1577364194548" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1575900390182" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test4.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zzy02$home.coverage" NAME="home Coverage Results" MODIFIED="1577000318247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
+    <SUITE FILE_PATH="coverage/zzy02$get.coverage" NAME="get的使用 Coverage Results" MODIFIED="1576391845492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1576598383058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$.coverage" NAME="摆放家具 Coverage Results" MODIFIED="1577367713637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$IO.coverage" NAME="文件IO练习 Coverage Results" MODIFIED="1577373987882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$ddt.coverage" NAME="ddt练习单个参数 Coverage Results" MODIFIED="1576768817044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
+    <SUITE FILE_PATH="coverage/zzy02$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1577113567543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$post.coverage" NAME="post的方法 Coverage Results" MODIFIED="1576402331255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1576304780741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
