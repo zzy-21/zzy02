@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12423d03-5f6d-42da-b463-3a7f2b4bc545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/get的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post的方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read&amp;writeExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/冒泡排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/摆放家具.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件IO练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if分支练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/列表推导.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单元测试/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单元测试/myfun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单元测试/testmyfun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单元测试/练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zzy02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zzy02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +53,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/单元测试" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/package" />
       <recent name="$PROJECT_DIR$" />
       <recent name="D:\zzy\zzy02\mymondle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.文件IO练习">
-    <configuration name="摆放家具" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for 练习.MyTestCase1">
+    <configuration name="列表推导" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,29 +76,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/摆放家具.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="文件IO练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zzy02" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件IO练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/列表推导.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,56 +195,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for MyTestCase1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单元测试" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice/home.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MyTestCase1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for MyTestCase1.test_normal" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="zzy02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单元测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MyTestCase1.test_normal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 练习.MyTestCase1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单元测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;练习.MyTestCase1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 单元测试练习.MyTestCase1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read&amp;writeExcel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;单元测试练习.MyTestCase1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 单元测试练习.MyTestCase1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;单元测试练习.MyTestCase1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 练习.MyTestCase1.test_normal" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单元测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;练习.MyTestCase1.test_normal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 单元测试练习.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zzy02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/单元测试/单元测试练习.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.文件IO练习" />
-        <item itemvalue="Python.摆放家具" />
-        <item itemvalue="Python.readExcel" />
-        <item itemvalue="Python.home" />
+        <item itemvalue="Python tests.Unittests for 练习.MyTestCase1" />
+        <item itemvalue="Python tests.Unittests for 练习.MyTestCase1.test_normal" />
+        <item itemvalue="Python tests.Unittests for MyTestCase1.test_normal" />
+        <item itemvalue="Python tests.Unittests in 单元测试练习.py" />
+        <item itemvalue="Python tests.Unittests for MyTestCase1" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +360,27 @@
       <workItem from="1576994902544" duration="17408000" />
       <workItem from="1577105257353" duration="4460000" />
       <workItem from="1577278242886" duration="8252000" />
-      <workItem from="1577362291904" duration="10994000" />
+      <workItem from="1577362291904" duration="11581000" />
+      <workItem from="1577584898057" duration="775000" />
+      <workItem from="1577883861323" duration="7998000" />
+      <workItem from="1577946060427" duration="1380000" />
+      <workItem from="1578034160149" duration="113000" />
+      <workItem from="1578034276427" duration="1000" />
+      <workItem from="1578034332617" duration="311000" />
+      <workItem from="1578034664036" duration="20000" />
+      <workItem from="1578034697127" duration="628000" />
+      <workItem from="1578035371788" duration="127000" />
+      <workItem from="1578035545671" duration="104000" />
+      <workItem from="1578035661338" duration="530000" />
+      <workItem from="1578036255651" duration="259000" />
+      <workItem from="1578036567263" duration="76000" />
+      <workItem from="1578036668220" duration="8000" />
+      <workItem from="1578036678959" duration="1000" />
+      <workItem from="1578036755888" duration="391000" />
+      <workItem from="1578037184233" duration="1801000" />
+      <workItem from="1578051693580" duration="3000" />
+      <workItem from="1578051710538" duration="1567000" />
+      <workItem from="1578053293208" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
       <created>1576332842915</created>
@@ -322,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576332842915</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
+      <created>1577374156720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577374156721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/zzy02.iml&#10;#&#9;test3.py">
+      <created>1577374202107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577374202107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +419,30 @@
     </state>
     <state x="307" y="87" key="#Inspections/0.23.1440.794@0.23.1440.794" timestamp="1577105569249" />
     <state x="307" y="87" key="#Inspections/0.23.1440.797@0.23.1440.797" timestamp="1576306520731" />
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1" timestamp="1578053083859">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1.test_no" timestamp="1578052956295">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1.test_no/0.23.1440.794@0.23.1440.794" timestamp="1578052956295" />
+    <state x="565" y="58" key="#Unittests_for_单元测试练习.MyTestCase1.test_normal" timestamp="1578052918157">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="565" y="58" key="#Unittests_for_单元测试练习.MyTestCase1.test_normal/0.23.1440.794@0.23.1440.794" timestamp="1578052918157" />
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1.test_normal1" timestamp="1578052983759">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1.test_normal1/0.23.1440.794@0.23.1440.794" timestamp="1578052983759" />
+    <state x="478" y="78" key="#Unittests_for_单元测试练习.MyTestCase1/0.23.1440.794@0.23.1440.794" timestamp="1578053083859" />
+    <state x="429" y="63" key="#Unittests_for_练习.MyTestCase1" timestamp="1578053696661">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="429" y="63" key="#Unittests_for_练习.MyTestCase1.test_normal" timestamp="1578053506542">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="429" y="63" key="#Unittests_for_练习.MyTestCase1.test_normal/0.23.1440.794@0.23.1440.794" timestamp="1578053506542" />
+    <state x="429" y="63" key="#Unittests_for_练习.MyTestCase1/0.23.1440.794@0.23.1440.794" timestamp="1578053696661" />
     <state x="429" y="43" key="#class" timestamp="1575893748735">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -358,66 +463,66 @@
       <screen x="0" y="23" width="1440" height="794" />
     </state>
     <state x="510" y="78" width="813" height="700" key="#xdebugger.evaluate/0.23.1440.794@0.23.1440.794" timestamp="1576596793793" />
-    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1577374178364">
+    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1577374202012">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1577374178364" />
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1577374202012" />
     <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1576332842825" />
     <state x="717" y="212" key="FileChooserDialogImpl" timestamp="1576307147319">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="717" y="212" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1576307147319" />
     <state x="720" y="187" key="FileChooserDialogImpl/0.23.1440.798@0.23.1440.798" timestamp="1576158883914" />
-    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1577373987890">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1578053426315">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1577373987890" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1578053426315" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1577372802609" />
     <state width="1398" height="234" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576591049622" />
     <state width="1358" height="172" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1576160173500" />
-    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1577373987889">
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1578053426313">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1578053426313" />
     <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1577372802608" />
     <state width="1398" height="234" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1576591049621" />
     <state width="1358" height="172" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1576160173499" />
-    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1577373987889">
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1578053426312">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1578053426312" />
     <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1577372802607" />
     <state width="1398" height="234" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1576591049620" />
     <state width="1358" height="172" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1576160173499" />
-    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1577373987889">
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1578053426314">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1577373987889" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1578053426314" />
     <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1577372802608" />
     <state width="1398" height="234" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1576591049622" />
     <state width="1358" height="172" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1576160173500" />
-    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1577370729010">
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1577896173144">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1577370729010" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1577896173144" />
     <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
     <state width="1398" height="234" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576591050451" />
-    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1577370729009">
+    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1577896173144">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1577896173144" />
     <state width="1398" height="245" key="GridCell.Tab.1.center/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
     <state width="1398" height="234" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1576591050450" />
-    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1577370729009">
+    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1577896173143">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1577896173143" />
     <state width="1398" height="245" key="GridCell.Tab.1.left/0.23.1440.795@0.23.1440.795" timestamp="1577113142066" />
     <state width="1398" height="234" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1576591050449" />
-    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1577370729009">
+    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1577896173144">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1577370729009" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1577896173144" />
     <state width="1398" height="245" key="GridCell.Tab.1.right/0.23.1440.795@0.23.1440.795" timestamp="1577113142067" />
     <state width="1398" height="234" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1576591050450" />
     <state x="135" y="92" key="MergeDialog" timestamp="1576332821278">
@@ -428,13 +533,17 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="424" y="144" key="MultipleFileMergeDialog/0.23.1440.797@0.23.1440.797" timestamp="1576332821306" />
-    <state x="226" y="75" key="SettingsEditor" timestamp="1577113298023">
+    <state x="226" y="75" key="SettingsEditor" timestamp="1578051685246">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
     <state x="226" y="59" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576388863583" />
-    <state x="226" y="75" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1577113298023" />
+    <state x="226" y="75" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1578051685246" />
     <state x="226" y="75" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1576551093003" />
     <state x="294" y="65" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1576159117259" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1577885895076">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.794@0.23.1440.794" timestamp="1577885895076" />
     <state x="111" y="124" width="1200" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576332292500">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -448,26 +557,19 @@
     </state>
     <state x="656" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.794@0.23.1440.794" timestamp="1577013928832" />
     <state x="825" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1576512146193" />
-    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577374102722">
+    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578034452584">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.794@0.23.1440.794" timestamp="1577374102722" />
+    <state x="500" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.794@0.23.1440.794" timestamp="1578034452584" />
     <state x="500" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1576584854947" />
-    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup" timestamp="1577364194548">
+    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup" timestamp="1577888890175">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1577364194548" />
+    <state x="385" y="144" width="670" height="674" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1577888890175" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1575900390182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test4.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -478,13 +580,16 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zzy02$if.coverage" NAME="if分支练习 Coverage Results" MODIFIED="1577885993624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$Unittests_in_testmyfun_py.coverage" NAME="Unittests in testmyfun.py Coverage Results" MODIFIED="1578038094799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unnitest" />
     <SUITE FILE_PATH="coverage/zzy02$home.coverage" NAME="home Coverage Results" MODIFIED="1577000318247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
+    <SUITE FILE_PATH="coverage/zzy02$Unittests_in__py.coverage" NAME="Unittests in 单元测试练习.py Coverage Results" MODIFIED="1578053383384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$get.coverage" NAME="get的使用 Coverage Results" MODIFIED="1576391845492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/zzy02$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1576598383058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/zzy02$.coverage" NAME="摆放家具 Coverage Results" MODIFIED="1577367713637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$.coverage" NAME="面向对象 Coverage Results" MODIFIED="1577895241908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1578034438747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$IO.coverage" NAME="文件IO练习 Coverage Results" MODIFIED="1577373987882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$ddt.coverage" NAME="ddt练习单个参数 Coverage Results" MODIFIED="1576768817044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/zzy/上课文档/teacherGitHub/VIPtest2/Practice" />
-    <SUITE FILE_PATH="coverage/zzy02$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1577113567543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zzy02$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1578036822113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$post.coverage" NAME="post的方法 Coverage Results" MODIFIED="1576402331255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zzy02$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1576304780741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
