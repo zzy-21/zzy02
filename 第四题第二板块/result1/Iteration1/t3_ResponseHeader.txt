@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Sat, 15 Feb 2020 14:30:15 GMT
+Server: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Set-Cookie: w0hC_2132_sid=OwOm9Q; expires=Sun, 16-Feb-2020 14:30:15 GMT; path=/
+Set-Cookie: w0hC_2132_lastact=1581777015%09forum.php%09; expires=Sun, 16-Feb-2020 14:30:15 GMT; path=/
+Set-Cookie: w0hC_2132_ulastactivity=3bcc%2FIC%2FZPKUm%2Bmrp6p2CbW3F7Xuffs4E3PjB7GFdcyR0Iy9j%2F0M; expires=Sun, 14-Feb-2021 14:30:15 GMT; path=/
+Set-Cookie: w0hC_2132_sid=OwOm9Q; expires=Sun, 16-Feb-2020 14:30:15 GMT; path=/
+Keep-Alive: timeout=5, max=83
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=gbk
+

@@ -1,0 +1,301 @@
+[Network Analyzer ( 570: fec)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 570: fec)] Load Network Traffic Analyzers:
+[Network Analyzer ( 570: fec)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 570: fec)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( 570: fec)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 570: fec)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( 570: fec)]     Analyzer Module: QTWeb (value=)
+[Network Analyzer ( 570: fec)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 570: fec)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 570: 338)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: fec)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: fec)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/forum.php"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 555 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 13140 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 2696 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/data/cache/style_1_common.css?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 656 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: fec)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 7113 bytes  (Service=HTTP)
+[Network Analyzer ( 570: fec)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/data/cache/style_1_forum_index.css?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 661 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 1924 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/js/common.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 646 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 9547 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/js/forum.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 645 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 11275 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/js/logging.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 647 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/logo.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 651 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 924 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 4735 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/background.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 657 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 1475 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/px.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 649 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/newarow.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 654 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 517 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 635 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/pn.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 649 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 900 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/nv.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 649 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/nv_a.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 651 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 2248 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 2385 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/search.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 653 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 3243 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/arrwd.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 652 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/collapsed_no.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 659 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 357 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 384 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/forum.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 652 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/online_admin.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 659 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 1036 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 671 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/qmenu.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 652 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 2053 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/online_supermod.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 662 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/online_moderator.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 663 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 688 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 683 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/online_member.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 660 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/logo_88_31.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 657 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 673 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 2837 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/home.php?mod=misc&ac=sendmail&rand=1581771811"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 668 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/titlebg.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 654 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 623 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/chart.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 652 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 1298 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/pt_item.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  1) Client -> Server : 654 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 438 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Server -> Client : 3907 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/scrolltop.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  2) Client -> Server : 681 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Server -> Client : 1383 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( 570: 338)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 570: 204)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: 204)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      ( 570: 338)] "POST /discuz/upload/member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 1156 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 1049 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/tip_bottom.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 791 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 1289 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/forum.php"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 947 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 1184 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/uc_server/avatar.php?uid=138&size=small"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 788 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 425 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/uc_server/images/noavatar_small.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 784 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 1883 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/notice.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 779 bytes (Service=HTTP)
+[Network Analyzer ( 570: 204)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 847 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/style_switch.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 785 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 1788 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 204)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1581771826"   
+[Network Analyzer ( 570: 338)]   (Sid:  3) Client -> Server : 805 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/user_online.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  4) Client -> Server : 784 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  4) Server -> Client : 1177 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Server -> Client : 440 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( 570: 338)]   (Sid:  3) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 第一个板块 [Network Analyzer ( 570: 204)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: 204)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/forum.php?mod=forumdisplay&fid=2"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 1024 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 15839 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/data/cache/style_1_forum_forumdisplay.css?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 895 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 11671 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/uc_server/avatar.php?uid=138&size=small"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 889 bytes (Service=HTTP)
+[Network Analyzer ( 570: 204)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 425 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/folder_new.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 884 bytes (Service=HTTP)
+[Network Analyzer ( 570: 204)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 542 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/pn_post.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 881 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 3619 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/titlebg_sd.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 884 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 777 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/feed.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 878 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/fav.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 877 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1977 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 904 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/arw_r.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 879 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 371 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/arw_l.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 879 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/atarget.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 881 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1322 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1152 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/refresh.png"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 881 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/js/seditor.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 874 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1383 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 6635 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/js/smilies.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 874 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 6402 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/pollsmall.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 883 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1581771860"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 906 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 908 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/editor/editor.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 880 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 8760 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1489 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/data/cache/common_smilies_var.js?61K"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 886 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 3722 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/smile.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 908 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 440 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1971 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/sad.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 906 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1546 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/biggrin.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 910 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1654 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/huffy.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 908 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 4118 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/shocked.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 910 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/tongue.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 909 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 2253 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 2150 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/shy.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 906 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/titter.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 909 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1707 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 2972 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/sweat.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 908 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/mad.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 906 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 2188 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 2732 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/lol.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 906 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/loveliness.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 913 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1888 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/funk.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 907 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/cry.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 906 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 3237 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 3175 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/shutup.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 903 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/dizzy.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 902 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 2809 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 2168 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/sleepy.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 924 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/curse.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 923 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 2684 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1852 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/kiss.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 922 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/handshake.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 927 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1295 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1631 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/hug.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 921 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 1363 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/victory.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  6) Client -> Server : 925 bytes (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/time.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 922 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 995 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  6) Server -> Client : 1584 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/smiley/default/call.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  5) Client -> Server : 922 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Server -> Client : 911 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent 第一个板块 [Network Analyzer ( 570: 338)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer ( 570: 338)]   (Sid:  5) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 第二个板块 [Network Analyzer ( 570: fec)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: fec)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/forum.php?mod=forumdisplay&fid=36"   
+[Network Analyzer ( 570: 338)]   (Sid:  7) Client -> Server : 1156 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  7) Server -> Client : 10068 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/uc_server/avatar.php?uid=138&size=small"   
+[Network Analyzer ( 570: 338)]   (Sid:  7) Client -> Server : 950 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  7) Server -> Client : 425 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/static/image/common/dot.gif"   
+[Network Analyzer ( 570: 338)]   (Sid:  7) Client -> Server : 938 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  7) Server -> Client : 407 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent 第二个板块 [Network Analyzer ( 570: 338)]   (Sid:  7) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 第三个板块 [Network Analyzer ( 570: fec)] Address lookup for liangchao = 192.168.1.8
+[Network Analyzer ( 570: fec)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      ( 570: 338)] "GET /discuz/upload/forum.php?mod=forumdisplay&fid=37"   
+[Network Analyzer ( 570: 338)]   (Sid:  8) Client -> Server : 1181 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  8) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  8) Server -> Client : 11724 bytes  (Service=HTTP)
+[Web Request      ( 570: 338)] "GET /discuz/upload/uc_server/avatar.php?uid=138&size=small"   
+[Network Analyzer ( 570: 338)]   (Sid:  8) Client -> Server : 947 bytes (Service=HTTP)
+[Network Analyzer ( 570: 338)]   (Sid:  8) Server -> Client : 425 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent 第三个板块 [Network Analyzer ( 570: 338)]   (Sid:  8) Connection Terminated (by Server)

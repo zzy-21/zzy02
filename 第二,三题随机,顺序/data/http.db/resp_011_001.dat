@@ -1,0 +1,159 @@
+37fb
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>zhaozhenyu01的空间 -  Discuz! Board -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=" ,Discuz! Board" />
+<meta name="generator" content="Discuz! X2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://127.0.0.1:8888/discuz/upload/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?61K" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_home_space.css?61K" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = '61K', charset = 'gbk', discuz_uid = '134', cookiepre = 'w0hC_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = ',,', defaultstyle = '', REPORTURL = 'aHR0cDovLzEyNy4wLjAuMTo4ODg4L2Rpc2N1ei91cGxvYWQvaG9tZS5waHA/bW9kPXNwYWNlJnVpZD0xMzQ=', SITEURL = 'http://127.0.0.1:8888/discuz/upload/', JSPATH = 'static/js/';</script>
+<script src="static/js/common.js?61K" type="text/javascript"></script><script src="static/js/home.js?61K" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="data/cache/style_1_css_space.css?61K" />
+<link id="style_css" rel="stylesheet" type="text/css" href="static/space/t1/style.css?61K">
+<style id="diy_style"></style>
+</head>
+
+<body id="space" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+
+
+<div id="toptb" class="cl">
+<div class="y">
+<a href="home.php?mod=space&amp;uid=134" class="xw1" target="_blank" title="访问我的空间">zhaozhenyu01</a>
+<a href="javascript:;" id="myspace" class="showmenu cur1" onmouseover="showMenu(this.id);">快捷导航</a>
+<a href="home.php?mod=spacecp">设置</a>
+<a href="home.php?mod=space&amp;do=pm" id="pm_ntc" target="_blank">消息</a>
+<a href="home.php?mod=space&amp;do=notice" id="myprompt" target="_blank" class="new">提醒(1)</a><span id="myprompt_check"></span>
+<a href="member.php?mod=logging&amp;action=logout&amp;formhash=8a080e6c">退出</a>
+<a id="diy-tg" href="home.php?mod=space&amp;diy=yes" title="装扮空间">DIY</a></div>
+<div class="z">
+<a href="./" title="Discuz! Board" class="xw1">Discuz! Board</a>
+<a href="home.php?mod=space&amp;do=home" id="navs" class="showmenu" onmouseover="showMenu(this.id);">返回首页</a>
+</div>
+</div>
+<div id="hd" class="wp cl">
+<h2 id="spaceinfoshow"><strong id="spacename" class="mbn">
+zhaozhenyu01的个人空间</strong>
+<span class="xs0 xw0">
+<a id="domainurl" href="http://127.0.0.1:8888/discuz/upload/?134" onclick="setCopy('http://127.0.0.1:8888/discuz/upload/?134', '空间地址复制成功');return false;">http://127.0.0.1:8888/discuz/upload/?134</a>
+<a href="javascript:;" onclick="addFavorite(location.href, document.title)">[收藏]</a>
+<a id="domainurl" href="http://127.0.0.1:8888/discuz/upload/?134" onclick="setCopy('http://127.0.0.1:8888/discuz/upload/?134', '空间地址复制成功');return false;">[复制]</a>
+</span>
+<span id="spacedescription" class="xs1 xw0 mtn"></span>
+</h2><div id="nv">
+<ul>
+<li><a href="home.php?mod=space&amp;uid=134">空间首页</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=home&amp;view=me&amp;from=space">动态</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=doing&amp;view=me&amp;from=space">记录</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=blog&amp;view=me&amp;from=space">日志</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=album&amp;view=me&amp;from=space">相册</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=share&amp;view=me&amp;from=space">分享</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=friend&amp;view=me&amp;from=space">好友</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=wall">留言板</a></li>
+<li><a href="home.php?mod=space&amp;uid=134&amp;do=profile">个人资料</a></li>
+</ul>
+</div></div>
+
+<ul id="navs_menu" class="p_pop topnav_pop" style="display:none;">                <li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li>                <li id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li>                <li id="mn_group" ><a href="group.php" hidefocus="true" title="Group"  >群组<span>Group</span></a></li>                <li id="mn_home" ><a href="home.php" hidefocus="true" title="Space"  >家园<span>Space</span></a></li>                                                                <li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li></ul>
+<ul id="myspace_menu" class="p_pop" style="display:none;">
+    <li><a href="home.php?mod=space">我的空间</a></li><li><a href="home.php?mod=space&do=friend" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="home.php?mod=space&do=thread&view=me" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="home.php?mod=magic" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="ct" class="wp w cl">
+<div id="diypage" class="area">
+<div id="frame1" class="frame cl" noedit="1">
+<div id="frame1_left" style="width:240px" class="z column">
+<div id="profile" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=profile">头像</a></span></div><div id="profile_content" class="dxb_bc"><div><div class="hm"><p><a href="home.php?mod=space&uid=134" target="_blank"><img src="http://127.0.0.1:8888/discuz/upload/uc_server/avatar.php?uid=134&size=middle" /></a></p><h2 class="mbn"><a href="home.php?mod=space&uid=134" target="_blank">zhaozhenyu01</a></h2></div><ul class="xl xl2 cl ul_list"><li class="ul_diy"><a href="home.php?mod=space&diy=yes">装扮空间</a></li><li class="ul_msg"><a href="home.php?mod=space&uid=134&do=wall">查看留言</a></li><li class="ul_avt"><a href="home.php?mod=spacecp&ac=avatar">编辑头像</a></li><li class="ul_profile"><a href="home.php?mod=spacecp&ac=profile">更新资料</a></li></ul></div></div></div>
+<div id="statistic" class="block move-span">
+<div class="blocktitle title"><span>统计信息</span></div><div id="statistic_content" class="dxb_bc"><div><p class="mbm xw1">已有 <strong class="xi1">--</strong> 人来访过</p><ul class="xl xl2 cl"><li>积分: <a href="home.php?mod=spacecp&ac=credit">4</a></li><li>威望: <a href="home.php?mod=spacecp&ac=credit">--</a><li>金钱: <a href="home.php?mod=spacecp&ac=credit">4</a><li>贡献: <a href="home.php?mod=spacecp&ac=credit">--</a><li>好友: <a href="home.php?mod=space&uid=134&do=friend&view=me&from=space">--</a></li><li>日志: <a href="home.php?mod=space&uid=134&do=blog&view=me&from=space">--</a></li><li>相册: <a href="home.php?mod=space&uid=134&do=album&view=me&from=space">--</a></li><li>分享: <a href="home.php?mod=space&uid=134&do=share&view=me&from=space">--</a></li></ul></div></div></div>
+<div id="album" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=album&view=me&from=space">相册</a></span></div><div id="album_content" class="dxb_bc"><ul class="ml cl"><p class="emp">现在还没有相册，<a href ="home.php?mod=spacecp&ac=upload">上传图片</a></p></ul></div></div>
+<div id="doing" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=doing&view=me&from=space">记录</a></span></div><div id="doing_content" class="dxb_bc"><ul class="xl"><p class="emp">现在还没有记录，<a href ="home.php?mod=space&uid=134&do=doing&view=me&from=space">更新记录</a></p></ul></div></div>
+</div>
+
+<div id="frame1_center" style="width:480px" class="z column">
+<div id="personalinfo" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=profile">个人资料</a></span><span class="y xw0"><a href="home.php?mod=spacecp&ac=profile">编辑我的资料</a></span></div><div id="personalinfo_content" class="dxb_bc"><ul id="pprl" class="mbm pbm bbda cl"><li><em>性别</em>保密</li><li><em>生日</em></li></ul><p style="text-align: right;"><a href="home.php?mod=space&uid=134&do=profile">查看全部个人资料</a></p></div></div>
+<div id="feed" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=home&view=me&from=space">动态</a></span></div><ul id="feed_content" class="dxb_bc el"><p class="emp">现在还没有动态</p></ul></div>
+<div id="share" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=share&view=me&from=space">分享</a></span></div><div id="share_content" class="dxb_bc"><p class="emp">现在还没有分享</p></div></div>
+<div id="blog" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=blog&view=me&from=space">日志</a></span></div><div id="blog_content" class="dxb_bc xld"><p class="emp">现在还没有日志，<a href ="home.php?mod=spacecp&ac=blog">发布日志</a></p></div></div>
+<div id="wall" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=wall">留言板</a></span><span class="y xw0"><a href="home.php?mod=space&uid=134&do=wall">全部</a></span></div><div id="wall_content" class="dxb_bc"><div class="space_wall_post">
+						<form action="home.php?mod=spacecp&ac=comment" id="quickcommentform_134" name="quickcommentform_134" method="post" autocomplete="off" onsubmit="ajaxpost('quickcommentform_134', 'return_commentwall_134');doane(event);">
+							<span id="message_face" onclick="showFace(this.id, 'comment_message');return false;" class="cur1"><img src="static/image/common/facelist.gif" alt="facelist" class="mbn vm" /></span>
+							<br /><textarea name="message" id="comment_message" class="pt" rows="3" cols="60" onkeydown="ctrlEnter(event, 'commentsubmit_btn');" style="width: 90%;"></textarea>
+							<input type="hidden" name="refer" value="home.php?mod=space&uid=134" />
+							<input type="hidden" name="id" value="134" />
+							<input type="hidden" name="idtype" value="uid" />
+							<input type="hidden" name="commentsubmit" value="true" />
+							<p class="ptn"><button type="submit" name="commentsubmit_btn" value="true" id="commentsubmit_btn" class="pn"><strong>留言</strong></button></p>
+							<input type="hidden" name="handlekey" value="commentwall_134" />
+							<span id="return_commentwall_134"></span>
+							<input type="hidden" name="formhash" value="8a080e6c" />
+						</form><script type="text/javascript">
+							function succeedhandle_commentwall_134(url, msg, values) {
+								wall_add(values['cid']);
+							}
+						</script>
+					</div><hr class="da mtm m0"><div class="xld xlda el" id="comment_ul"><p class="emp">现在还没有留言</p></div></div></div>
+</div>
+
+<div id="frame1_right" style="width:240px" class="z column">
+<div id="friend" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=friend&view=me&from=space">好友</a></span></div><div id="friend_content" class="dxb_bc"><p class="emp">现在还没有好友，<a href ="home.php?mod=spacecp&ac=search">查找好友</a> 或 <a href ="home.php?mod=spacecp&ac=invite">邀请好友</a></p></div></div>
+<div id="visitor" class="block move-span">
+<div class="blocktitle title"><span><a href="home.php?mod=space&uid=134&do=friend&view=visitor">最近访客</a></span></div><div id="visitor_content" class="dxb_bc"><p class="emp">现在还没有访客，<a href ="home.php?mod=space&do=friend&view=online&type=member">去串串门</a></p></div></div>
+<div id="group" class="block move-span">
+<div class="blocktitle title"><span>群组</span></div><div id="group_content" class="dxb_bc"><p class="emp">现在还没有群组，<a href ="forum.php?mod=group&action=create">创建自己的群组</a> 或 <a href ="group.php?mod=index">加入群组</a></p></div></div>
+</div>
+</div>
+</div>
+</div>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p><a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2020-2-13 21:09<span id="debuginfo">
+, Processed in 0.031250 second(s), 25 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X2</em></p>
+<p class="xs0">&copy; 2001-2011 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></script>
+</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 4, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1581599374" type="text/javascript"></script>
+<script src="home.php?mod=misc&ac=sendmail&rand=1581599374" type="text/javascript"></script>
+<script type="text/javascript">noticeTitle();</script>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script></body>
+</html>
+
+0
+

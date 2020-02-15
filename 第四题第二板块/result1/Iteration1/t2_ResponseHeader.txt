@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Sat, 15 Feb 2020 14:30:15 GMT
+Server: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Set-Cookie: w0hC_2132_lastact=1581777015%09member.php%09logging; expires=Sun, 16-Feb-2020 14:30:15 GMT; path=/
+Set-Cookie: w0hC_2132_auth=940cGjs1E3xud6dksqZKSN5dR8cGdC4nDG0hqCtR7ecEh0YYJSxZ6nhRvJnzy7UZ2PdcQySDkJrXI46M3u0tQ0A; path=/; httponly
+Set-Cookie: w0hC_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: w0hC_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: w0hC_2132_pmnum=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: w0hC_2132_creditnotice=0D0D2D0D0D0D0D0D0D134; path=/
+Set-Cookie: w0hC_2132_creditbase=0D0D4D0D0D0D0D0D0; path=/
+Set-Cookie: w0hC_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+Content-Length: 183
+Keep-Alive: timeout=5, max=84
+Connection: Keep-Alive
+Content-Type: text/xml; charset=gbk
+

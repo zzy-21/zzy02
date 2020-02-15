@@ -1,0 +1,45 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+PROCESS 0x14c       smss.exe
+Failed to get information of process Id: 380
+PROCESS 0x194       winlogon.exe
+PROCESS 0x1c4       services.exe
+PROCESS 0x1d0       lsass.exe
+PROCESS 0x264       vmacthlp.exe
+PROCESS 0x28c       svchost.exe
+Failed to get information of process Id: 724
+Failed to get information of process Id: 788
+Failed to get information of process Id: 832
+PROCESS 0x350       svchost.exe
+PROCESS 0x488       explorer.exe
+PROCESS 0x514       groovemonitor.exe
+PROCESS 0x52c       ipmsg.exe
+PROCESS 0x534       ctfmon.exe
+PROCESS 0x560       sqlmangr.exe
+PROCESS 0x5d8       spoolsv.exe
+Failed to get information of process Id: 1524
+PROCESS 0x65c       svchost.exe
+PROCESS 0x694       inetinfo.exe
+PROCESS 0x6b4       magentservice.exe
+PROCESS 0x6f8       sqlservr.exe
+PROCESS 0x724       coherence.exe
+PROCESS 0x758       prl_tools_service.exe
+PROCESS 0x788       dllhost.exe
+PROCESS 0x798       prl_tools.exe
+Failed to get information of process Id: 2036
+PROCESS 0xbc        prl_cc.exe
+PROCESS 0x4e8       mssearch.exe
+PROCESS 0x4c8       svchost.exe
+PROCESS 0x9e8       svchost.exe
+PROCESS 0xa14       svchost.exe
+PROCESS 0xa6c       dllhost.exe
+Failed to get information of process Id: 2948
+PROCESS 0xcc8       wuauclt.exe
+Failed to get information of process Id: 3340
+PROCESS 0xe40       lrlauncherapp.exe
+PROCESS 0xe70       vugen.exe
+PROCESS 0xec8       conime.exe
+PROCESS 0xa0c       xampp-control.exe
+PROCESS 0xa8c       httpd.exe
+PROCESS 0x5bc       httpd.exe
+PROCESS 0xdb0       mysqld.exe

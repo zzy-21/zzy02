@@ -1,0 +1,328 @@
+69dc
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>个人资料 -  Discuz! Board -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",Discuz! Board" />
+<meta name="generator" content="Discuz! X2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://127.0.0.1:8888/discuz/upload/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?61K" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_home_spacecp.css?61K" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = '61K', charset = 'gbk', discuz_uid = '134', cookiepre = 'w0hC_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = ',,', defaultstyle = '', REPORTURL = 'aHR0cDovLzEyNy4wLjAuMTo4ODg4L2Rpc2N1ei91cGxvYWQvaG9tZS5waHA/bW9kPXNwYWNlY3A=', SITEURL = 'http://127.0.0.1:8888/discuz/upload/', JSPATH = 'static/js/';</script>
+<script src="static/js/common.js?61K" type="text/javascript"></script><meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://127.0.0.1:8888/discuz/upload/portal.php;icon-uri=http://127.0.0.1:8888/discuz/upload/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://127.0.0.1:8888/discuz/upload/forum.php;icon-uri=http://127.0.0.1:8888/discuz/upload/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://127.0.0.1:8888/discuz/upload/group.php;icon-uri=http://127.0.0.1:8888/discuz/upload/static/image/common/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=http://127.0.0.1:8888/discuz/upload/home.php;icon-uri=http://127.0.0.1:8888/discuz/upload/static/image/common/home.ico" /><script src="static/js/home.js?61K" type="text/javascript"></script>
+</head>
+
+<body id="nv_home" class="pg_spacecp" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://127.0.0.1:8888/discuz/upload/');">设为首页</a><a href="http://127.0.0.1:8888/discuz/upload/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('')" title="默认"><i></i></span><span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul><li><a href="home.php?mod=space&do=friend" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="home.php?mod=space&do=thread&view=me" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="home.php?mod=magic" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://127.0.0.1:8888/discuz/upload/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+</div>
+<div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2>
+
+<div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=134"><img src="http://127.0.0.1:8888/discuz/upload/uc_server/avatar.php?uid=134&size=small" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=134" target="_blank" title="访问我的空间">zhaozhenyu01</a></strong>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="new">提醒(1)</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=8a080e6c">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 4</a>
+<span class="pipe">|</span>用户组: <a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="xi2" onmouseover="delayShow(this, showUpgradeinfo)">新手上路</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});">快捷导航</a>
+<ul><li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li><li id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_group" ><a href="group.php" hidefocus="true" title="Group"  >群组<span>Group</span></a></li><li id="mn_home" ><a href="home.php" hidefocus="true" title="Space"  >家园<span>Space</span></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="8a080e6c" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="home::spacecp" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" class="pn pnc" value="true"><strong class="xi2 xs2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong><a href="search.php?mod=forum&amp;srchtxt=%BB%EE%B6%AF&amp;formhash=8a080e6c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2">活动</a><a href="search.php?mod=forum&amp;srchtxt=%BD%BB%D3%D1&amp;formhash=8a080e6c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2">交友</a><a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=8a080e6c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2">discuz</a></div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum">帖子</a></li><li><a href="javascript:;" rel="blog">日志</a></li><li><a href="javascript:;" rel="album">相册</a></li><li><a href="javascript:;" rel="group">群组</a></li><li><a href="javascript:;" rel="user" class="curtype">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp"><div id="pt" class="bm cl"><div id="sc" class="y">
+<form id="sc_form" method="post" autocomplete="off" onsubmit="searchFocus($('srchtxt'))" action="http://127.0.0.1:8888/discuz/upload/search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="formhash" value="8a080e6c" />
+<input type="hidden" name="mod" id="sc_mod" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="home::" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td id="sc_txt_td"><input type="text" name="srchtxt" id="sc_txt" class="px z" value="请输入搜索内容" autocomplete="off" /></td>
+<td id="sc_type_td"><span id="sc_type_w" class="px z"><a href="javascript:;" id="sc_type" class="showmenu xg1" onclick="showMenu(this.id);">搜索</a></span></td>
+<td id="sc_btn_td"><button type="submit" name="searchsubmit" id="sc_btn" class="pn pnc" value="true"><strong>搜索</strong></button></td>
+</tr>
+</table>
+<div id="sc_type_menu" class="p_pop cl" style="display: none">
+<ul><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum">帖子</a></li><li><a href="javascript:;" rel="blog">日志</a></li><li><a href="javascript:;" rel="album">相册</a></li><li><a href="javascript:;" rel="group">群组</a></li><li><a href="javascript:;" rel="user" class="curtype">用户</a></li></ul>
+</div>
+</form>
+<script type="text/javascript">initSearchmenu('sc');</script>
+</div>
+<div class="z">
+<a href="./" class="nvhm" title="首页">Discuz! Board</a> <em>&rsaquo;</em>
+<a href="home.php?mod=spacecp">设置</a> <em>&rsaquo;</em>个人资料
+</div>
+</div>
+<div id="ct" class="ct2_a wp cl">
+<div class="mn">
+<div class="bm bw0">
+<h1 class="mt">个人资料
+</h1>
+<!--don't close the div here--><ul class="tb cl">
+<li  class="a"><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=base">基本资料</a></li>
+<li ><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=contact">联系方式</a></li>
+<li ><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=edu">教育情况</a></li>
+<li ><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=work">工作情况</a></li>
+<li ><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=info">个人信息</a></li>
+</ul><iframe id="frame_profile" name="frame_profile" style="display: none"></iframe>
+<form action="home.php?mod=spacecp&ac=profile&op=base" method="post" enctype="multipart/form-data" autocomplete="off" target="frame_profile" onsubmit="clearErrorInfo();">
+<input type="hidden" value="8a080e6c" name="formhash" />
+<table cellspacing="0" cellpadding="0" class="tfm" id="profilelist">
+<tr>
+<th>用户名</th>
+<td>zhaozhenyu01</td>
+<td>&nbsp;</td>
+</tr><tr id="tr_realname">
+<th id="th_realname">真实姓名</th>
+<td id="td_realname">
+<input type="text" name="realname" class="px" value="" tabindex="1" /><div class="rq mtn" id="showerror_realname"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[realname]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_gender">
+<th id="th_gender">性别</th>
+<td id="td_gender">
+<select name="gender" id="gender" class="ps" tabindex="1"><option value="0" selected="selected">保密</option><option value="1">男</option><option value="2">女</option></select><div class="rq mtn" id="showerror_gender"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[gender]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_birthday">
+<th id="th_birthday">生日</th>
+<td id="td_birthday">
+<select name="birthyear" id="birthyear" class="ps" onchange="showbirthday();" tabindex="1"><option value="">年</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option></select>&nbsp;&nbsp;<select name="birthmonth" id="birthmonth" class="ps" onchange="showbirthday();" tabindex="1"><option value="">月</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select>&nbsp;&nbsp;<select name="birthday" id="birthday" class="ps" tabindex="1"><option value="">日</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><div class="rq mtn" id="showerror_birthday"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[birthday]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_birthcity">
+<th id="th_birthcity">出生地</th>
+<td id="td_birthcity">
+<p id="birthdistrictbox"><select name="birthprovince" id="birthprovince" class="ps" onchange="showdistrict('birthdistrictbox', ['birthprovince', 'birthcity', 'birthdist', 'birthcommunity'], 1, 1)" tabindex="1"><option value="">-省份-</option><option did="1" value="北京市">北京市</option><option did="2" value="天津市">天津市</option><option did="3" value="河北省">河北省</option><option did="4" value="山西省">山西省</option><option did="5" value="内蒙古自治区">内蒙古自治区</option><option did="6" value="辽宁省">辽宁省</option><option did="7" value="吉林省">吉林省</option><option did="8" value="黑龙江省">黑龙江省</option><option did="9" value="上海市">上海市</option><option did="10" value="江苏省">江苏省</option><option did="11" value="浙江省">浙江省</option><option did="12" value="安徽省">安徽省</option><option did="13" value="福建省">福建省</option><option did="14" value="江西省">江西省</option><option did="15" value="山东省">山东省</option><option did="16" value="河南省">河南省</option><option did="17" value="湖北省">湖北省</option><option did="18" value="湖南省">湖南省</option><option did="19" value="广东省">广东省</option><option did="20" value="广西壮族自治区">广西壮族自治区</option><option did="21" value="海南省">海南省</option><option did="22" value="重庆市">重庆市</option><option did="23" value="四川省">四川省</option><option did="24" value="贵州省">贵州省</option><option did="25" value="云南省">云南省</option><option did="26" value="西藏自治区">西藏自治区</option><option did="27" value="陕西省">陕西省</option><option did="28" value="甘肃省">甘肃省</option><option did="29" value="青海省">青海省</option><option did="30" value="宁夏回族自治区">宁夏回族自治区</option><option did="31" value="新疆维吾尔自治区">新疆维吾尔自治区</option><option did="32" value="台湾省">台湾省</option><option did="33" value="香港特别行政区">香港特别行政区</option><option did="34" value="澳门特别行政区">澳门特别行政区</option><option did="35" value="海外">海外</option><option did="36" value="其他">其他</option></select>&nbsp;&nbsp;</p><div class="rq mtn" id="showerror_birthcity"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[birthcity]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_residecity">
+<th id="th_residecity">居住地</th>
+<td id="td_residecity">
+<p id="residedistrictbox"><select name="resideprovince" id="resideprovince" class="ps" onchange="showdistrict('residedistrictbox', ['resideprovince', 'residecity', 'residedist', 'residecommunity'], 1, 1)" tabindex="1"><option value="">-省份-</option><option did="1" value="北京市">北京市</option><option did="2" value="天津市">天津市</option><option did="3" value="河北省">河北省</option><option did="4" value="山西省">山西省</option><option did="5" value="内蒙古自治区">内蒙古自治区</option><option did="6" value="辽宁省">辽宁省</option><option did="7" value="吉林省">吉林省</option><option did="8" value="黑龙江省">黑龙江省</option><option did="9" value="上海市">上海市</option><option did="10" value="江苏省">江苏省</option><option did="11" value="浙江省">浙江省</option><option did="12" value="安徽省">安徽省</option><option did="13" value="福建省">福建省</option><option did="14" value="江西省">江西省</option><option did="15" value="山东省">山东省</option><option did="16" value="河南省">河南省</option><option did="17" value="湖北省">湖北省</option><option did="18" value="湖南省">湖南省</option><option did="19" value="广东省">广东省</option><option did="20" value="广西壮族自治区">广西壮族自治区</option><option did="21" value="海南省">海南省</option><option did="22" value="重庆市">重庆市</option><option did="23" value="四川省">四川省</option><option did="24" value="贵州省">贵州省</option><option did="25" value="云南省">云南省</option><option did="26" value="西藏自治区">西藏自治区</option><option did="27" value="陕西省">陕西省</option><option did="28" value="甘肃省">甘肃省</option><option did="29" value="青海省">青海省</option><option did="30" value="宁夏回族自治区">宁夏回族自治区</option><option did="31" value="新疆维吾尔自治区">新疆维吾尔自治区</option><option did="32" value="台湾省">台湾省</option><option did="33" value="香港特别行政区">香港特别行政区</option><option did="34" value="澳门特别行政区">澳门特别行政区</option><option did="35" value="海外">海外</option><option did="36" value="其他">其他</option></select>&nbsp;&nbsp;</p><div class="rq mtn" id="showerror_residecity"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[residecity]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_affectivestatus">
+<th id="th_affectivestatus">情感状态</th>
+<td id="td_affectivestatus">
+<input type="text" name="affectivestatus" class="px" value="" tabindex="1" /><div class="rq mtn" id="showerror_affectivestatus"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[affectivestatus]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_lookingfor">
+<th id="th_lookingfor">交友目的</th>
+<td id="td_lookingfor">
+<input type="text" name="lookingfor" class="px" value="" tabindex="1" /><div class="rq mtn" id="showerror_lookingfor"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[lookingfor]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr id="tr_bloodtype">
+<th id="th_bloodtype">血型</th>
+<td id="td_bloodtype">
+<select name="bloodtype" class="ps" tabindex="1"><option value="A">A</option><option value="B">B</option><option value="AB">AB</option><option value="O">O</option><option value="其它">其它</option></select><div class="rq mtn" id="showerror_bloodtype"></div><p class="d"></p></td>
+<td class="p">
+<select name="privacy[bloodtype]">
+<option value="0">公开</option>
+<option value="1">好友可见</option>
+<option value="3">保密</option>
+</select>
+</td>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<td colspan="2">
+<input type="hidden" name="profilesubmit" value="true" />
+<button type="submit" name="profilesubmitbtn" id="profilesubmitbtn" value="true" class="pn pnc" /><strong>保存</strong></button>
+<span id="submit_result" class="rq"></span>
+</td>
+</tr>
+</table>
+</form>
+<script type="text/javascript">
+function show_error(fieldid, extrainfo) {
+var elem = $('th_'+fieldid);
+if(elem) {
+elem.className = "rq";
+fieldname = elem.innerHTML;
+extrainfo = (typeof extrainfo == "string") ? extrainfo : "";
+$('showerror_'+fieldid).innerHTML = "请检查该资料项 " + extrainfo;
+$(fieldid).focus();
+}
+}
+function show_success(message) {
+message = message == '' ? '资料更新成功' : message;
+showDialog(message, 'right', '提示信息', function(){
+top.window.location.href = top.window.location.href;
+}, 0, null, '', '', '', '', 3);
+}
+function clearErrorInfo() {
+var spanObj = $('profilelist').getElementsByTagName("div");
+for(var i in spanObj) {
+if(typeof spanObj[i].id != "undefined" && spanObj[i].id.indexOf("_")) {
+var ids = explode('_', spanObj[i].id);
+if(ids[0] == "showerror") {
+spanObj[i].innerHTML = '';
+$('th_'+ids[1]).className = '';
+}
+}
+}
+}
+</script>
+</div>
+</div>
+<div class="appl"><div class="tbn">
+<h2 class="mt bbda">设置</h2>
+<ul>
+<li><a href="home.php?mod=spacecp&amp;ac=avatar">修改头像</a></li>
+<li class="a"><a href="home.php?mod=spacecp&amp;ac=profile">个人资料</a></li>
+<li><a href="home.php?mod=spacecp&amp;ac=credit">积分</a></li>
+<li><a href="home.php?mod=spacecp&amp;ac=usergroup">用户组</a></li>
+<li><a href="home.php?mod=spacecp&amp;ac=privacy">隐私筛选</a></li>
+<li><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=password">密码安全</a></li>
+
+<li><a href="home.php?mod=spacecp&amp;ac=promotion">访问推广</a></li>
+</ul>
+</div></div>
+</div>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p><a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2020-2-13 21:09<span id="debuginfo">
+, Processed in 0.031250 second(s), 12 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X2</em></p>
+<p class="xs0">&copy; 2001-2011 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></script>
+</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 4, 距离下一级还需 46 积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script type="text/javascript">noticeTitle();</script>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script></body>
+</html>
+
+0
+

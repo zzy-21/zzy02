@@ -1,0 +1,10 @@
+GET /discuz/upload/forum.php?mod=forumdisplay&fid=36 HTTP/1.1
+Referer: http://127.0.0.1:8888/discuz/upload/forum.php
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn
+Accept: */*
+Connection: Keep-Alive
+Host: 127.0.0.1:8888
+Cookie: w0hC_2132_lastvisit=1581773414; w0hC_2132_sid=OwOm9Q; w0hC_2132_lastact=1581777015%09home.php%09spacecp; w0hC_2132_onlineusernum=2; w0hC_2132_sendmail=1; w0hC_2132_auth=940cGjs1E3xud6dksqZKSN5dR8cGdC4nDG0hqCtR7ecEh0YYJSxZ6nhRvJnzy7UZ2PdcQySDkJrXI46M3u0tQ0A; w0hC_2132_creditnotice=0D0D2D0D0D0D0D0D0D134; w0hC_2132_creditbase=0D0D4D0D0D0D0D0D0; w0hC_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; w0hC_2132_ulastactivity=3bcc%2FIC%2FZPKUm%2Bmrp6p2CbW3F7Xuffs4E3PjB7GFdcyR0Iy9j%2F0M; w0hC_2132_checkpm=1
+

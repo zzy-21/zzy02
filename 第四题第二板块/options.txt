@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Documents and Settings\Administrator\桌面\第四题第二板块
+-IC:\Program Files\HP\LoadRunner\include
+-ec:\documents and settings\administrator\桌面\第四题第二板块\\logfile.log
+c:\documents and settings\administrator\桌面\第四题第二板块\\combined_第四题第二板块.c
+c:\documents and settings\administrator\桌面\第四题第二板块\\pre_cci.c

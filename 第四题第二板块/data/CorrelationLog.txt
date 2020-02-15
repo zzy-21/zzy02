@@ -1,0 +1,21 @@
+Debug Message:
+	Correlation engine instance created; using configuration Default
+
+Debug Message:
+	Correlation is disabled
+
+Debug Message:
+	TaskID=3  URL=http://127.0.0.1:8888/discuz/upload/forum.php
+
+Debug Message:
+	TaskID=39  URL=http://127.0.0.1:8888/discuz/upload/forum.php
+
+Debug Message:
+	TaskID=52  URL=http://127.0.0.1:8888/discuz/upload/forum.php?mod=forumdisplay&fid=2
+
+Debug Message:
+	TaskID=100  URL=http://127.0.0.1:8888/discuz/upload/forum.php?mod=forumdisplay&fid=36
+
+Debug Message:
+	TaskID=106  URL=http://127.0.0.1:8888/discuz/upload/forum.php?mod=forumdisplay&fid=37
+

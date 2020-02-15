@@ -1,4 +1,4 @@
-from myfun import *
+from testmyfun import *
 import unittest
 # 类名不能与关键字同名，类中有几个test开头的方法就有几个测试用例
 

@@ -1,0 +1,10 @@
+GET /discuz/upload/forum.php HTTP/1.1
+Accept: */*
+Accept-Language: zh-cn
+UA-CPU: x86
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+Host: 127.0.0.1:8888
+Connection: Keep-Alive
+Cookie: w0hC_2132_sid=jGe9Ej; w0hC_2132_lastvisit=1581493665; w0hC_2132_lastact=1581597599%09home.php%09spacecp; w0hC_2132_sendmail=1; w0hC_2132_onlineusernum=4; w0hC_2132_auth=656ejCLif9qll8lRyYRJxyWxynN55a6tcxVqZUmPfKHMeCGwj6X8WE7LiBDnGfFjodiZRQldOUs%2BL8lRDwEGWIw; w0hC_2132_ulastactivity=f3f0R6xTXv7sD1%2BAUp3yW2r9Jk2lXE8pSQPpQGnK5DHHKLlsvlTt; w0hC_2132_checkpm=1; w0hC_2132_noticeTitle=1; w0hC_2132_forum_lastvisit=D_2_1581597576D_36_1581597588D_37_1581597592D_38_1581597595D_39_1581597599; w0hC_2132_visitedfid=39D38D37D36D2; w0hC_2132_smile=1D1
+

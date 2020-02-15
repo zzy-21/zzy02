@@ -40,8 +40,6 @@ class getExcelData(object):
         # print('assertsheetData', self.assertsheetList)
         new_data = []
         for j in range(len(self.urlsheetList)):
-            # print(j)
-            # print(self.urlsheetList[j])
             urlsheet_value = self.urlsheetList[j]
             paramsheet_value = self.paramsheetList[j][1:]
             urlsheet_value.append(paramsheet_value)
